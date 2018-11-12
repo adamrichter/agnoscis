@@ -2,4 +2,4 @@
 Contributors
 ============
 
-* Adam Richter <adam1richter@gmail.com>
+* Adam Richter 
